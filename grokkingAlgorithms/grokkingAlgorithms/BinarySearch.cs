@@ -6,9 +6,29 @@ namespace grokkingAlgorithms
 {
     static class BinarySearch
     {
-        public static void findValue(int[] numbers)
+        public static object binarySearch(int[] list, int item)
         {
-            Console.WriteLine("Hello World");
+            int low = 0;
+            int high = list.Length - 1;
+
+            while (low <= high)
+            {
+                int mid = (low + high) / 2;
+                int guess = list[mid];
+                if (guess == item)
+                {
+                    return guess;
+                }
+                else if (guess > item)
+                {
+                    high = mid - 1;
+                }
+                else
+                {
+                    low = mid + 1;
+                }
+            }
+            return "Not Found";
         }
     }
 }

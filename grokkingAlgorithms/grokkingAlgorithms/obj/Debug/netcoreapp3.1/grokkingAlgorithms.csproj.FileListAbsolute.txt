@@ -1,0 +1,11 @@
+A:\Projects\grokkingAlgorithms_challenges\grokkingAlgorithms\grokkingAlgorithms\bin\Debug\netcoreapp3.1\grokkingAlgorithms.exe
+A:\Projects\grokkingAlgorithms_challenges\grokkingAlgorithms\grokkingAlgorithms\bin\Debug\netcoreapp3.1\grokkingAlgorithms.deps.json
+A:\Projects\grokkingAlgorithms_challenges\grokkingAlgorithms\grokkingAlgorithms\bin\Debug\netcoreapp3.1\grokkingAlgorithms.runtimeconfig.json
+A:\Projects\grokkingAlgorithms_challenges\grokkingAlgorithms\grokkingAlgorithms\bin\Debug\netcoreapp3.1\grokkingAlgorithms.runtimeconfig.dev.json
+A:\Projects\grokkingAlgorithms_challenges\grokkingAlgorithms\grokkingAlgorithms\bin\Debug\netcoreapp3.1\grokkingAlgorithms.dll
+A:\Projects\grokkingAlgorithms_challenges\grokkingAlgorithms\grokkingAlgorithms\bin\Debug\netcoreapp3.1\grokkingAlgorithms.pdb
+A:\Projects\grokkingAlgorithms_challenges\grokkingAlgorithms\grokkingAlgorithms\obj\Debug\netcoreapp3.1\grokkingAlgorithms.csprojAssemblyReference.cache
+A:\Projects\grokkingAlgorithms_challenges\grokkingAlgorithms\grokkingAlgorithms\obj\Debug\netcoreapp3.1\grokkingAlgorithms.AssemblyInfoInputs.cache
+A:\Projects\grokkingAlgorithms_challenges\grokkingAlgorithms\grokkingAlgorithms\obj\Debug\netcoreapp3.1\grokkingAlgorithms.AssemblyInfo.cs
+A:\Projects\grokkingAlgorithms_challenges\grokkingAlgorithms\grokkingAlgorithms\obj\Debug\netcoreapp3.1\grokkingAlgorithms.dll
+A:\Projects\grokkingAlgorithms_challenges\grokkingAlgorithms\grokkingAlgorithms\obj\Debug\netcoreapp3.1\grokkingAlgorithms.pdb
