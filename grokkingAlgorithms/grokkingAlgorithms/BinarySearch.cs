@@ -6,15 +6,15 @@ namespace grokkingAlgorithms
 {
     static class BinarySearch
     {
-        public static object binarySearch(int[] list, int item)
+        public static object binarySearch(int[] array, int item)
         {
             int low = 0;
-            int high = list.Length - 1;
+            int high = array.Length - 1;
 
             while (low <= high)
             {
                 int mid = (low + high) / 2;
-                int guess = list[mid];
+                int guess = array[mid];
                 if (guess == item)
                 {
                     return guess;
