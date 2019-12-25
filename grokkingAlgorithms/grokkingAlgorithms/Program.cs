@@ -18,6 +18,8 @@ namespace grokkingAlgorithms
             {
                 Console.WriteLine(i);
             }
+
+            Console.WriteLine(Recursion.factorial(3));
         }
     }
 }
