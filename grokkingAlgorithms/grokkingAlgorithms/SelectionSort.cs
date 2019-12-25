@@ -11,7 +11,7 @@ namespace grokkingAlgorithms
             int smallest = array[0];
             int smallest_index = 0;
 
-            foreach (int i in array)
+            for(int i = 0; i<array.Count ; i++)
             {
                 if (array[i] < smallest)
                 {
@@ -26,7 +26,8 @@ namespace grokkingAlgorithms
         {
             List<int> newArray = new List<int>();
             int smallest = 0;
-            foreach (int i in array)
+            int length = array.Count;
+            for (int y = 0; y < length; y++)
             {
                 smallest = findSmallest(array);
                 newArray.Add(array[smallest]);
