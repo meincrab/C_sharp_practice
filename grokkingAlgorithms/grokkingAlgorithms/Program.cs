@@ -18,8 +18,17 @@ namespace grokkingAlgorithms
             {
                 Console.WriteLine(i);
             }
+            Console.WriteLine("\nFactorial:" + Recursion.factorial(3));
 
-            Console.WriteLine(Recursion.factorial(3));
+            mixedValues = new List<int>() { 11, 15, 4, 9, 1, 20, 40, 54, 23, 19, 31 };
+            Console.WriteLine("QuickSort:");
+            List<int> quickSorted = QuickSort.quickSort(mixedValues);
+            foreach (int i in quickSorted)
+            {
+                Console.WriteLine(i);
+            }
+
+
         }
     }
 }
