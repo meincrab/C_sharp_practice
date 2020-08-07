@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C_sharp_practice\\ulearn_me_challenges\\Demo\\Demo.csproj",
-      "projectName": "Demo",
-      "projectPath": "D:\\C_sharp_practice\\ulearn_me_challenges\\Demo\\Demo.csproj",
+      "projectUniqueName": "D:\\C_sharp_practice\\ulearn_me_challenges\\Demo\\RandomFunctions.csproj",
+      "projectName": "RandomFunctions",
+      "projectPath": "D:\\C_sharp_practice\\ulearn_me_challenges\\Demo\\RandomFunctions.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
       "outputPath": "D:\\C_sharp_practice\\ulearn_me_challenges\\Demo\\obj\\",
       "projectStyle": "PackageReference",
